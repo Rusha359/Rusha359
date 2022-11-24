@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, я Рушания</h1>
-<h3 align="center">Fullstack разработчик</h3>
+<h3 align="center">Fullstack developer</h3>
 
 - 📫 How to reach me **rusha359@gmail.com**
 
