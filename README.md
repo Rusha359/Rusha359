@@ -2,6 +2,7 @@
 <h3 align="center">Fullstack developer</h3>
 
 - 📫 How to reach me **rusha359@gmail.com**
+- Telegram: https://t.me/Rushaniya33
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
